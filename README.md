@@ -21,10 +21,12 @@ In future iterations and as the application expands, we do recommend moving to m
  
 # Roadmap Architecture
 Below is a suggested first step transition towards a microservices architecture. This includes migrating the messaging and notification services as they are ideal candidates to benefit from microvervices.
+
 ![Roadmap Architecture](CEP-MicroservicesStep1.png)
  
 # Recommended Architecture
-Below is what we imagine the microservices architecture would look like for the application in its current state. 
+Below is what we imagine the microservices architecture would look like for the application in its current state.
+
 ![Recommended Architecture](CEP-Microservices.png)
  
 # References
